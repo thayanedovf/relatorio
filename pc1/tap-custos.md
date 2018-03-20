@@ -10,36 +10,32 @@ Gasto total com mão-de-obra => $650,00*13*4 = 20800,00$
 
 ### Custos Estrutura
 
-O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Os mate
+O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Quanto à estrutura do projeto, a maior demanda está relacionada com os materiais que serão, em sua grande maioria, de madeira e ferro.
+A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 ### Custos Eletrônica
-# Tabela de Custos
+
+Os custos na parte de eletrônica estão vinculados aos componentes eletrônicos, sensores, microcontrolador e microcomputador. Esses componentes em conjunto forneceram o controle do remo e monitoramento do usuário. Esse trabalho terá sua apresentação em interface em conjunto com a parte de Engenharia de Software e a parte Elétrica em conjunto com a Engenharia de Energia.
+A descrição mais detalhada dos materiais está conforme tabela subsequente.
+
+## Tabela de Custos
 
 
 | Requisitos de Eletrônica | Quantidade | Preço (R$) | Fornecedor |
 |--------------------------|------------|-------|------------|
-| Cabos                    |        x   |    10,00   |      Contato      |
-| ESP                      |        1   |    20,00   |     Mercado Livre       |
-| Sensor Monitor cardíaco         |        1   |    29,90   |     TD TEC       |
-| Monitor Raspberry        |        1   |    566,00  |    FilipeFlop        |
-| MSP-430                  |        1   |   90,00    |     Mercado Livre       |
+| Cabos                    |        x   |    10,00   |            |
+| ESP                      |        1   |    20,00   |            |
+| Monitor cardíaco         |        1   |    25,00   |            |
+| Monitor Raspberry        |        1   |    566,00  |            |
+| MSP-430                  |        1   |   90,00    |            |
 | Peças para Wattímetro    |        x   |   40,00    |            |
-| Placa de circuito impresso|       5   |   25,00    |       HU Infinito     |
-| Raspberry Pi 3           |        1   |   150,00   |     Mercado Livre       |
-| Sensores IMU             |        2   |   19,00    |      HU Infinito      |
-
+| Placa de circuito impresso|       5   |   25,00    |            |
+| Raspberry Pi 3           |        1   |   150,00   |            |
+| Sensores IMU             |        2   |   19,00    |            |
 
 
 ### Custos Software
 
 ### Custos Energia
-
-
-| Requisitos de Energia | Quantidade | Preço (R$) | Fornecedor |
-|--------------------------|------------|-------|------------|
-| Gerador Elétrico                   |        1   |    0,00   |      Emprestado      |
-|      Relé            |        5   |    16,25   |     Mercado Livre       |
-| Resistores para carga do gerador        |        1   |    29,90   |          |
-
 
 ### Custos Totais
