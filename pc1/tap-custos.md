@@ -7,7 +7,7 @@ Os custos do projeto serão controlados semanalmente, de acordo com a necessidad
 
 Quanto a base dos valores, está sendo considerado o valor médio de fontes variads. Os valores relativos ao transporte e frete de peças está vínculado ao valor, além disso não está sendo considerado o envio de nenhuma peça que envolva custo do exterior, até o momento.
 
-A mão-de-obra é exclusiva dos membros do grupo, considerando o rendimento responsável de cada um, então não haverá investimento em pessoal a não ser físico e nunca financeiro. Caso os serviços prestados pelos estudantes do grupo na disciplana fossem contabilizados para caráter de informação, cada um poderia ser considerado como aluno de projeto da  com custo de R$ 650,00, para 13 membros por 4 meses, totalizando um gasto total de R$ 33800,00, segundo equação abaixo:
+A mão-de-obra é exclusiva dos membros do grupo, considerando o rendimento responsável de cada um, então não haverá investimento em pessoal a não ser físico e nunca financeiro. Caso os serviços prestados pelos estudantes do grupo na disciplana fossem contabilizados para caráter de informação, cada um poderia ser considerado como aluno de projeto da UnB com custo de R$ 400,00, para 13 membros por 4 meses, totalizando um gasto total de R$ 20800,00, segundo equação abaixo:
 
-Gasto total com mão-de-obra => $650,00*13*4 = 33800,00$
+Gasto total com mão-de-obra => $650,00*13*4 = 20800,00$
 
