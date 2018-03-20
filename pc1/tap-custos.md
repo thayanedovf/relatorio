@@ -34,4 +34,12 @@ O serviço relacionado à estrutura está sob a resposabilidade dos alunos de En
 
 ### Custos Energia
 
+
+| Requisitos de Energia | Quantidade | Preço (R$) | Fornecedor |
+|--------------------------|------------|-------|------------|
+| Gerador Elétrico                   |        1   |    0,00   |      Emprestado      |
+|      Relé            |        5   |    16,25   |     Mercado Livre       |
+| Resistores para carga do gerador        |        1   |    29,90   |          |
+
+
 ### Custos Totais
