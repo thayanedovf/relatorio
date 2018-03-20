@@ -10,8 +10,7 @@ Gasto total com mão-de-obra => $650,00*13*4 = 20800,00$
 
 ### Custos Estrutura
 
-O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Os mate
-
+O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Quanto à estrutura do projeto, a maior demanda está relacionada com os materiais que serão, em sua grande maioria, de madeira e ferro.
 
 
 
@@ -27,6 +26,8 @@ O serviço relacionado à estrutura está sob a resposabilidade dos alunos de En
 
 ### Custos Eletrônica
 
+Os custos na parte de eletrônica estão vinculados aos componentes eletrônicos, sensores, microcontrolador e microcomputador. Esses componentes em conjunto forneceram o controle do remo e monitoramento do usuário. Esse trabalho terá sua apresentação em interface em conjunto com a parte de Engenharia de Software e a parte Elétrica em conjunto com a Engenharia de Energia.
+A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 | Requisitos de Eletrônica | Quantidade | Preço (R$) | Fornecedor |
 |--------------------------|------------|-------|------------|
