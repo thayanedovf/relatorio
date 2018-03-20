@@ -13,6 +13,21 @@ Gasto total com mão-de-obra => $650,00*13*4 = 20800,00$
 O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Os mate
 
 ### Custos Eletrônica
+## Tabela de Custos
+
+
+| Requisitos de Eletrônica | Quantidade | Preço (R$) | Fornecedor |
+|--------------------------|------------|-------|------------|
+| Cabos                    |        x   |    10,00   |            |
+| ESP                      |        1   |    20,00   |            |
+| Monitor cardíaco         |        1   |    25,00   |            |
+| Monitor Raspberry        |        1   |    566,00  |            |
+| MSP-430                  |        1   |   90,00    |            |
+| Peças para Wattímetro    |        x   |   40,00    |            |
+| Placa de circuito impresso|       5   |   25,00    |            |
+| Raspberry Pi 3           |        1   |   150,00   |            |
+| Sensores IMU             |        2   |   19,00    |            |
+
 
 ### Custos Software
 
