@@ -11,7 +11,7 @@ As pesquisas científicas relacionadas aos parâmetros biomecânicos são escass
 
 Existe uma técnica de movimentos ciclícos, em que cada um determina uma remada e esses movimentos requerem uma postura adequeda. Atualmente, a postura é analisada através da observação dos vídeos tendo total dependência de um instrutor. As modificações prospostas nessse trabalho apresenta como dificuldade inicial analisar o movimento corporal realizado pelo iniciante, ou seja, determinar os ângulos  normalizados de uma das pernas e consequentemente a calibração dos sensores biomecânicos.
 
-Outro ponto importante é a escassez de mecanismos para integração do sensoreamento biomecânico acoplado ao sistema. Os estudos  científicos apresentam a análise dos parâmetros e seus comportamentos aplicados separademente, o que dificulta exergar o sistema de desempenho do iniciante em um sistema como um todo.
+Outro ponto importante é a escassez de mecanismos para integração do sensoreamento biomecânico acoplado ao sistema. Os estudos  científicos apresentam a análise dos parâmetros de potência, postura e ciclo cardíacos e seus comportamentos aplicados separademente, o que dificulta exergar o sistema de desempenho do iniciante em um sistema como um todo.
 
 ## Energia
 
