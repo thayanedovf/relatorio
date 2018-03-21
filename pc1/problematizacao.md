@@ -18,3 +18,9 @@ Outro ponto importante é a escassez de mecanismos para integração do sensorea
 ## Estrutura
 
 ## Software
+
+Há uma dificuldade teórica a nível dos algoritmos para aferição da qualidade de performance através da comparação de modelos simulados em _software_. Essa dificuldade se dá principalmente sobre o grande conjunto de variáveis que influenciam modelos extraídos de situações reais. Estes são extremamente dependentes do contexto, do equipamento, do ambiente, do atleta, etc. É necessário um grande esforço de desenvolvimento para garantir uma comparação a nível de _software_ que leve em consideração várias das intempéries que podem afetar um treinamento assistido por computador.
+
+Existe também, uma complexidade elevada para construção de uma arquitetura de _software_ que permita o processamento, a análise, e a exibição  das informações coletadas em tempo real. Garantir o mínimo possível de atraso entre a coleta, a transmissão, o processamento, a análise e a exibição, são fatores que juntos determinam o sucesso de uma ferramenta capaz de interpretar cinematicamente uma situação do mundo real e apresentá-la em um tempo suficiente para que um ser humano possa reagir às informações exibidas.
+
+Nesse contexto, contabilizamos poucas ferramentas de código aberto que forneçam uma API para construção e análise de modelos computacionais a partir de um conjunto de dados cinemáticos das juntas do corpo humano. Essas ferramentas, como o OpenSim da Universidade de Stanford, estão em fase de desenvolvimento e necessitam de um estudo aprofundado para que sejam aplicadas ou não em uma solução de _software_.
