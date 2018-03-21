@@ -8,7 +8,7 @@ Em pouco tempo essa prática esportiva se popularizou em todo o mundo. Associaç
 
 O remo _indoor_, também conhecido como remo ergométrico ([@fig:remoindoor]), surgiu como um complemento para quem já praticava a modalidade. É nesse estilo de simulador que os atletas faziam o aquecimento antes de ir para a água ou reforçavam seu condicionamento físico. A atividade acabou ganhando contornos importantes para os resultados obtidos nas provas reais. Novos métodos de treinamento cada vez mais sofisticados utilizam esses mecanismos _indoor_ para extrair informações sobre a performance dos atletas que podem ser enviadas e analisadas pelos treinadores e especialista.
 
-![Remo ergométrico^[Fonte: http://www.sportsister.com/2013/10/24/row-your-way-to-fitness-2/]](images/remoindoor.png){#fig:remoindoor}
+![Remo ergométrico^[Fonte: http://www.sportsister.com/2013/10/24/row-your-way-to-fitness-2/]](imagens/remoindoor.png){#fig:remoindoor}
 
 Na maioria dos lugares, essa sistematização do treinamento ainda possui diversas etapas burocráticas e manuais que dependem de profissionais especialistas,o que encarece os processos e assim inviabiliza tanto o aperfeiçoamento de atletas que já praticam o esporte quanto a iniciação de pessoas interessadas. Neste contexto, diversos equipamentos de baixo custo são disponibilizados pela indústria. Esses produtos nem sempre respondem a uma experiência de treinamento efetiva e envolvem poucas tecnologias de auxílio de treinamento ao esportista.
 
