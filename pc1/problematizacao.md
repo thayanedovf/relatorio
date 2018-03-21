@@ -15,6 +15,12 @@ Outro ponto importante é a escassez de mecanismos para integração do sensorea
 
 ## Energia
 
+Diante do cenário da construção de um aparelho de remo focado em treinamento de atletas iniciantes, é necessário que haja a simulação da força exigida na remada que ocorre no ambiente natural do esporte.
+
+Segundo o funcionamento de um dinamômetro eletrônico, pode-se empregar uma máquina elétrica, operando no modo gerador, como um eficiente dispositivo de torque ajustável, se houver um meio de ajustar a carga. Porém, essa tecnologia empregada a realidade do projeto, carece de aplicações práticas.
+
+Dessa forma, a complexidade se encontra em gerar níveis de dificuldade para o atleta durante o treinamento, que podem ser controlados eletronicamente e ainda, aproveitar a energia mecânica gerada durante o ciclo de remada e armazená-la para uma posterior alimentação do próprio sistema.
+
 ## Estrutura
 
 ## Software
