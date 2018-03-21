@@ -11,9 +11,7 @@ Gasto total com mão-de-obra => $650,00*13*4 = 20800,00$
 ### Custos Estrutura
 
 O serviço relacionado à estrutura está sob a resposabilidade dos alunos de Engenharia automotiva e Aeroespacial. Quanto à estrutura do projeto, a maior demanda está relacionada com os materiais que serão, em sua grande maioria, de madeira e ferro.
-
-
-
+A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 | Requisitos de Estrutura | Quantidade | Preço (R$) | Fornecedor |
 |--------------------------|------------|-------|------------|
@@ -27,6 +25,9 @@ O serviço relacionado à estrutura está sob a resposabilidade dos alunos de En
 ### Custos Eletrônica
 
 Os custos na parte de eletrônica estão vinculados aos componentes eletrônicos, sensores, microcontrolador e microcomputador. Esses componentes em conjunto forneceram o controle do remo e monitoramento do usuário. Esse trabalho terá sua apresentação em interface em conjunto com a parte de Engenharia de Software e a parte Elétrica em conjunto com a Engenharia de Energia.
+
+Os componentes mais caros, nessa seção, são referentes a parte embarcada e de interface, ou seja, RaspberryPi e o display.
+
 A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 | Requisitos de Eletrônica | Quantidade | Preço (R$) | Fornecedor |
@@ -45,6 +46,7 @@ A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 ### Custos Software
 
+Quanto a parte de software há gastos para se manter um dispositivo para receber os dados e comparar com dados já armazenados e assim gerar um feedback acerca do movimento. Isso coloca a Engenharia de Software com gastos bem conhecidos e acoplados aos resultados da eletrônica embarcada.
 
 | Requisitos de Software | Quantidade | Preço (R$) | Fornecedor |
 |--------------------------|------------|-------|------------|
@@ -53,6 +55,7 @@ A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 ### Custos Energia
 
+Os gastos com relação a aplicação da Engenharia de Energia diz respeito, em sua maioria, ao gerador elétrico. Todavia esse componente está com suas especificações váriaveis devido à sua aplicação no projeto. Os gastos com relé de acionamento para as resistências está decidido para economia, tendo em vista que transistors para potências mais altas aumentariam os valores.
 
 | Requisitos de Energia | Quantidade | Preço (R$) | Fornecedor |
 |--------------------------|------------|-------|------------|
@@ -62,3 +65,6 @@ A descrição mais detalhada dos materiais está conforme tabela subsequente.
 
 
 ### Custos Totais
+
+Os custos gerais de todas as partes do projetos ficam em R$ ?????. Como o grupo possui 13 integrantes o valor gasto esperado, por pessoa é de R$ ??????.
+
